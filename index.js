@@ -621,7 +621,7 @@ class BotSession {
 `╰━━━━━━━━━━━━━━━━━━┈⊷\n\n` +
 
 `╭━━━〔 ${toBold("🌐 𝗢𝗙𝗙𝗜𝗖𝗜𝗔𝗟 𝗖𝗛𝗔𝗡𝗡𝗘𝗟")} 〕━━━┈⊷\n` +
-`┃ 🔗 https://whatsapp.com/channel/0029VbAsXOu5fM5g9sLpV22P\n` +
+`┃ 🔗 https://whatsapp.com/channel/0029Vb8DoTx60eBXBE0WUC39\n` +
 `╰━━━━━━━━━━━━━━━━━━┈⊷\n\n` +
 
 `╭━━━〔 ${toBold("👑 𝗣𝗢𝗪𝗘𝗥𝗘𝗗 𝗕𝗬")} 〕━━━┈⊷\n` +
